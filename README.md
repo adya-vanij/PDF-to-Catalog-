@@ -1,6 +1,9 @@
 <h1>PDF to Catalog Agent</h1>
 <h2>Agent Description</h2>
 The PDF-to-Catalog Agent is an AI-powered system designed to extract product information from PDF files and transform it into a structured ecommerce product catalog. The agent uses natural language processing (NLP) and document parsing technologies to identify product details such as name, description, price, specifications, and images, enabling seamless integration with ecommerce platforms.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Y0w71U9mll4/0.jpg)](https://www.youtube.com/watch?v=Y0w71U9mll4)
+
 <h2>Problem Statement</h2>
 Many businesses and suppliers store their product information in PDF files, making it difficult to transfer this data into ecommerce systems. Manual data entry is time-consuming, error-prone, and inefficient, especially when dealing with large or complex product catalogs.
 <h2>Solution Statement</h2>
