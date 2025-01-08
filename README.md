@@ -9,7 +9,9 @@ The PDF-to-Ecommerce Product Catalog Agent automates the process of extracting a
 <li>Organizes extracted data into a structured format compatible with ecommerce platforms.</li>
 <li>Supports bulk uploads and ensures data accuracy and consistency.</li>
 <h2>Process Flow</h2>
-<img src="https://github.com/user-attachments/assets/8b1a8d29-d876-4799-b654-ed4e31aef548" />
+
+<img src="https://github.com/user-attachments/assets/5472a59a-017b-4911-99c1-e556bf90fd16"/>
+
 <h2>POC Deliverables</h2>
 <li>A functional prototype demonstrating PDF upload, product data extraction, and catalog generation.</li>
 <li>A user interface for reviewing and editing extracted product data.</li>
